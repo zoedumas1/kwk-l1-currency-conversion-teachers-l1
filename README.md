@@ -9,7 +9,7 @@ Congratulations, you just won a contest to travel the world!!! Before you embark
 ### Challenge 1
 Write two methods: one named `usd_to_eur` and one named `eur_to_usd`. The method called `usd_to_eur` should take a dollar amount as an argument, and return the equivalent value in Euros. The method `eur_to_usd` should do the reverse: it should take an amount in Euros as an argument, and return the equivalent value in US Dollars. Values of currencies fluctuate with the market, so you'll need to do some research online to see their current market values.
 
-[Here’s a list of currency conversions.](http://xe.com)
+[Here’s a conversion tool by Google to help you with building your own converstion calculator.](https://www.google.com/finance/converter)
 
 
 ### Challenge 2
