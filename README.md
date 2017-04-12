@@ -1,6 +1,6 @@
-##Today's Code Challenge!
+## Today's Code Challenge!
 
-###Currency Conversion
+### Currency Conversion
 
 Congratulations, you just won a contest to travel the world!!! Before you embark on your journey, you're obviously going to have to learn a little about spending money in various countries because you can't use the United States Dollar everywhere. In this challenge, you're going to build some conversion methods for the top 5 used currencies in the world. Once you're done, you should be able to apply what you learned to build a converter for any country you would like to visit. Let your imagination run wild!
 
@@ -22,7 +22,7 @@ Just like you did in **challenge 1**, build currency conversion methods for US D
 * GBP to USD
 * AUD to USD
 
-###Challenge 3
+### Challenge 3
 Build a menu that allows a user to input the amount of money they want to convert and then select what type of currency conversion they want to use. 
 
 At the bottom of your ruby file, you're going to copy and paste the code below. Don't worry if you don't get it at first, just copy and paste it into your ruby file and run it, see if you can figure out how this works by replacing `#code here` with something like `puts "hello world`.   
