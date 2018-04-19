@@ -67,3 +67,4 @@ end
 ```
 
 You just used something called a switch-case without anyone having to teach it to you! If you're curious about what else you can do with these, you can read more about them [here.](http://ruby-doc.org/docs/keywords/1.9/Object.html#method-i-case)
+<p data-visibility='hidden'>KWK-L1 Today's Code Challenge!</p>
