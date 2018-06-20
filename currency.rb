@@ -60,7 +60,7 @@ def menu_input
   when 6
     puts jpy_to_usd(amount)
   when 7
-    puts gbp_to_usd (amount)
+    puts gbp_to_usd(amount)
   when 8
     puts aud_to_usd(amount)
   else
