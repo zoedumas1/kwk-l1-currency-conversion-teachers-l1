@@ -64,6 +64,6 @@ def menu_input
   when 8
     puts aud_to_usd(amount)
   else
-    puts "Invalid input, exiting.."
+    puts "Invalid input, exiting..."
   end
 end
