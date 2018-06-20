@@ -66,4 +66,3 @@ def menu_input
   else
     puts "Invalid input, exiting..."
   end
-end
